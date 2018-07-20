@@ -1,6 +1,7 @@
 using isogram_csharp_problem;
 using System;
 using Xunit;
+using isogram_csharp_problem;
 
 namespace Isogram.Tests
 {
